@@ -1,15 +1,15 @@
 {
-  "name": "BotsApp",
-  "description": "The most user friendly and easy to use WhatsApp bot.",
+  "name": "whap",
+  "description": "whap",
   "logo": "https://i.imgur.com/xw9lULI.jpg",
   "keywords": [
-      "Whatsapp",
-      "WhatsApp bot",
-      "userbot",
-      "BotsApp",
+      "whap",
+      "whap",
+      "whap",
+      "whap",
       "nodejs"
   ],
-  "repository": "https://github.com/BotsAppOfficial/BotsApp",
+  "repository": "https://github.com/r1z99/whap",
   "website": "",
   "success_url": "",
   "stack": "container",
